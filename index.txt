@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE>Practica 3 1B WEB II Elias Intriago</TITLE>
+</HEAD>
+<BODY>
+<P>GRACIAS</P>
+</BODY>
+</HTML>
